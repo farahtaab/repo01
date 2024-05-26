@@ -5,7 +5,7 @@ ENUNCIADO ->
 
 ![Enunciado](imagenes/enunciado.png)
 
-1.1_ Creación e inicialicazión del repositorio local (Si se ha inicializado correctamente nos aparecerà el siguiente mensaje)
+1.1_ Creación e inicialicazión del repositorio local (Si se ha inicializado correctamente nos aparecerá el siguiente mensaje)
 
 ![Imagen 1](imagenes/image.png)
 
@@ -41,7 +41,12 @@ Lo vinculamos al local añadiendo en la linia de comandos de la terminal lo sigu
 
 ![Imagen 8](imagenes/image8.png)
 
-1.9_ Subida de los cambios.
+1.8_ Subida de los cambios.
 
 ![Imagen 9](imagenes/image9.png)
+
+1.9_ Comprobación de los commits
+
+![Imagen 10](imagenes/image10.png)
+
 
