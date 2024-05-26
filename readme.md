@@ -15,15 +15,7 @@ ENUNCIADO ->
 
 1.3_ 
 
-
-![Imagen 1](imagenes/image.png)
-
-1.2_ Añadimos documento readme para la documentación.
-![Imagen 2](imagenes/image2.png)
-
-1.3_ 
-
-![Imagen 2](imagenes/image3.png)
+![Imagen 3](imagenes/image3.png)
 
 1.4_
 Nos da ERROR. No tenemos un destino configurado para hacer push de nuestros cambios!! 
