@@ -47,6 +47,5 @@ Lo vinculamos al local añadiendo en la linia de comandos de la terminal lo sigu
 
 1.9_ Comprobación de los commits
 
-![Imagen 10](imagenes/Captura de pantalla 2024-05-26 155343.png)
-
+![Imagen 10](imagenes/image10.png)
 
